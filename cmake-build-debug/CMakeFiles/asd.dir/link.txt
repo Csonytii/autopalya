@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/asd.dir/main.cpp.o  -o asd 
